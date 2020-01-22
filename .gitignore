@@ -1,0 +1,13 @@
+.bundle/*
+log/*
+tmp/*
+.sas_ftp_cred
+**.DS_Store
+
+# Rubymine
+.idea/
+.idea/*
+public/system/**
+
+# Personal
+scratch/*
